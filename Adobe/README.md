@@ -11,6 +11,7 @@ Documented [here](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)
 * ccmdls.adobe.com (Allow)
 * na1e-acc.services.adobe.com (Allow)
 * cdn-ffc.oobesaas.adobe.com (Allow)
+* ccmdls.adobe.com (Allow)
 
 Documented [here](https://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/endpoints.html)
 * p13n.adobe.io (Block)
