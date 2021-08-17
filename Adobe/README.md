@@ -8,6 +8,7 @@ Documented [here](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)
 * lcs-ulecs.adobe.io (Block)
 * as1.ftcdn.net (Allow)
 * as2.ftcdn.net (Allow)
+* ccmdls.adobe.com (Allow)
 
 Documented [here](https://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/endpoints.html)
 * p13n.adobe.io (Block)
