@@ -9,6 +9,7 @@ Documented [here](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)
 * as1.ftcdn.net (Allow)
 * as2.ftcdn.net (Allow)
 * ccmdls.adobe.com (Allow)
+* na1e-acc.services.adobe.com (Allow)
 
 Documented [here](https://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/endpoints.html)
 * p13n.adobe.io (Block)
