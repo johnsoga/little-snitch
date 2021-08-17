@@ -7,5 +7,8 @@ Documented [here](https://docs.microsoft.com/en-us/microsoft-365/enterprise/netw
 * officeci.azurewebsites.net (Block)
 * ols.officeapps.live.com (Block)
 * outlook.office365.com (Block)
+* nexusrules.officeapps.live.com (Block)
+  * CNAME: prod.nexusrules.live.com.akadns.net
+  * Purpose: Office Telemetry
 
 
